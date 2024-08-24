@@ -70,3 +70,5 @@ This project leverages Power BI to analyze hospital data and generate actionable
 - Understanding patient demographics and treatment patterns is crucial for optimizing healthcare delivery and resource allocation.
 - Data-driven strategies help healthcare providers pinpoint areas for improvement, enabling better-targeted interventions and enhanced patient outcomes.
 - Ongoing analysis and monitoring of healthcare data are vital for recognizing trends and proactively addressing challenges in the healthcare industry.
+
+![Hospital Insights Dashboard](dashboard.png)
