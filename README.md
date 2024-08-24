@@ -72,3 +72,5 @@ This project leverages Power BI to analyze hospital data and generate actionable
 - Ongoing analysis and monitoring of healthcare data are vital for recognizing trends and proactively addressing challenges in the healthcare industry.
 
 ![Hospital Insights Dashboard](dashboard.png)
+
+Theme credit to www.datapears.com!
