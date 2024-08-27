@@ -1,7 +1,13 @@
 # Healthcare Insights Dashboard using Power BI
 
-## Project Overview
-This project leverages Power BI to analyze hospital data and generate actionable insights. The goal is to identify key trends, correlations, and patterns in patient demographics, treatment outcomes, and hospital operations. Through interactive and visually engaging dashboards, this analysis supports better decision-making and enhances operational effectiveness in healthcare settings.
+## Executive Overview
+This project uses Power BI to analyze hospital data, focusing on patient demographics, treatment outcomes, and costs. The dashboard reveals key insights, such as optimizing treatment costs by focusing on high-recovery, cost-effective treatments and tailoring care based on patient age and gender. These insights support better decision-making, improving both patient outcomes and hospital efficiency.
+
+## Tools and Skills
+- **Power BI**: Developed dynamic visualizations and an interactive dashboard.
+- **Data Analysis**: Performed in-depth analysis of hospital and patient data to derive meaningful insights.
+- **Statistical Analysis**: Applied statistical methods to uncover trends and correlations in the data.
+- **Healthcare Domain Expertise**: Interpreted analytical results with a strong understanding of healthcare operations and patient care.
 
 ## Dataset
 This project utilizes two Excel sheets containing patient and hospital data. The dataset includes:
@@ -28,12 +34,6 @@ This project utilizes two Excel sheets containing patient and hospital data. The
 - RecoveryRating: Patient's recovery rating
 
 This dataset provides key insights into patient care, hospital operations, and financial data.
-
-## Tools and Skills
-- **Power BI**: Developed dynamic visualizations and an interactive dashboard.
-- **Data Analysis**: Performed in-depth analysis of hospital and patient data to derive meaningful insights.
-- **Statistical Analysis**: Applied statistical methods to uncover trends and correlations in the data.
-- **Healthcare Domain Expertise**: Interpreted analytical results with a strong understanding of healthcare operations and patient care.
 
 ## Business Question
 **How can the hospital optimize treatment costs while maintaining or improving patient recovery outcomes across different age groups and treatment types?**
