@@ -1,7 +1,33 @@
-# Hospital Insights Dashboard using Power BI
+# Healthcare Insights Dashboard using Power BI
 
 ## Project Overview
 This project leverages Power BI to analyze hospital data and generate actionable insights. The goal is to identify key trends, correlations, and patterns in patient demographics, treatment outcomes, and hospital operations. Through interactive and visually engaging dashboards, this analysis supports better decision-making and enhances operational effectiveness in healthcare settings.
+
+## Dataset
+This project utilizes two Excel sheets containing patient and hospital data. The dataset includes:
+
+1. **Patient Information**
+- Patient: Unique identifier
+- PatientName: Full name
+- Age: Age at admission
+- Gender: Gender
+- Bloodtype: Blood type
+- Diagnosis: Primary diagnosis
+- Treatment: Administered treatment(s)
+- AdmissionDate: Admission date
+- DischargeDate: Discharge date
+- TotalBill: Total cost of stay
+- Full Prescription Details: Medication details
+2. **Hospital and Staff Information**
+- Patient: Unique identifier
+- Hospital: Name of hospital
+- DoctorName: Attending doctor
+- RoomNumber: Room number
+- DailyCost: Daily cost of stay
+- Treatment: Administered treatment(s)
+- RecoveryRating: Patient's recovery rating
+
+This dataset provides key insights into patient care, hospital operations, and financial data.
 
 ## Tools and Skills
 - **Power BI**: Developed dynamic visualizations and an interactive dashboard.
