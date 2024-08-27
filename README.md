@@ -42,7 +42,7 @@ This dataset provides key insights into patient care, hospital operations, and f
 1. **Cost Analysis Across Treatment Types:**
 - **Observation:** Surgery incurs the highest average costs per patient.
 - **Actionable Insight:** Consider alternative treatments like physical therapy or medication for applicable conditions, as these may reduce costs while maintaining effectiveness.
-- 
+
 2. **Treatment Costs vs. Recovery Rating:**
 - **Observation:** Surgery, while expensive, does not always correlate with the highest recovery ratings.
 - **Actionable Insight:** Increase focus on treatments such as counseling, which demonstrate high recovery ratings and lower costs, to optimize both patient outcomes and financial efficiency.
