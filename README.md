@@ -87,6 +87,8 @@ This dataset provides key insights into patient care, hospital operations, and f
   - Pilot alternative treatment programs for conditions typically treated with surgery, comparing outcomes and costs to existing protocols.
   - Gather data from these pilots to inform broader adoption of more cost-effective treatment strategies across the hospital.
 
+## Dashboard Screenshot
+
 ![Hospital Insights Dashboard](dashboard.png)
 
 Theme credit to www.datapears.com!
