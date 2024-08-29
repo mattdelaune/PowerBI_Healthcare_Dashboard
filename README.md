@@ -1,6 +1,6 @@
 # Healthcare Insights Dashboard using Power BI
 
-## Executive Overview
+## Executive Summary
 This project uses Power BI to analyze hospital data, focusing on patient demographics, treatment outcomes, and costs. The dashboard reveals key insights, such as optimizing treatment costs by focusing on high-recovery, cost-effective treatments and tailoring care based on patient age and gender. These insights support better decision-making, improving both patient outcomes and hospital efficiency.
 
 ## Tools and Skills
@@ -55,55 +55,37 @@ This dataset provides key insights into patient care, hospital operations, and f
 - **Observation:** Peak admission months correlate with specific diagnoses.
 - **Actionable Insight:** Use admission trends to better manage resources during high-demand periods, optimizing both patient care and operational efficiency.
 
-## Data Analysis and Visualization
-1. **Age Groups and Recovery Rates**:
-   - Classified patients into Child, Adult, and Senior groups.
-   - Identified significant variability in recovery ratings, particularly among seniors.
+## Stakeholder Recommended Next Steps by Priority
 
-2. **Cost Analysis Across Treatment Types**:
-   - Analyzed average treatment costs, noting surgery as the highest-cost treatment.
+### High Priority
 
-3. **Gender-Based Diagnosis Distribution**:
-   - Examined diagnosis distribution by gender, identifying conditions more prevalent in specific genders.
+**1. Optimize Treatment Plans Based on Recovery Ratings and Costs**
+- **Action:** Increase focus on cost-effective treatments with high recovery ratings to enhance both patient outcomes and financial efficiency.
+- **Specific Steps:**
+  - Prioritize treatments such as counseling over surgery where applicable, as counseling shows high recovery ratings at a lower cost.
+  - Conduct a comprehensive review of current treatment protocols to identify opportunities for substituting high-cost, low-recovery treatments with more effective alternatives like physical therapy or medication.
 
-4. **Analysis of Recovery Ratings**:
-   - Assessed average recovery ratings across treatment categories, with counseling achieving the highest ratings.
+**2. Tailor Treatment Plans for Seniors Based on Age-Specific Data**
+- **Action:** Develop age-specific treatment plans to improve recovery outcomes, particularly for seniors who show the highest variability in recovery ratings.
+- **Specific Steps:**
+  - Analyze recovery data segmented by age group to identify the most effective treatments for seniors.
+  - Implement targeted interventions for senior patients, adjusting treatment protocols to better align with age-related recovery patterns.
 
-5. **Hospital Utilization Metrics**:
-   - Evaluated hospital admissions and room occupancy, highlighting facilities with high utilization.
+### Medium Priority
 
-6. **Treatment Effectiveness and Length of Stay**:
-   - Correlated treatment effectiveness with patient length of stay, noting that some treatments with longer stays had lower recovery ratings.
+**3. Use Admission Trends to Optimize Resource Allocation**
+- **Action:** Leverage patient admission trends to improve resource management during peak periods, ensuring optimal patient care and operational efficiency.
+- **Specific Steps:**
+  - Monitor admission data to identify months with peak admissions for specific diagnoses.
+  - Adjust staffing levels, bed availability, and supply inventory in anticipation of these high-demand periods to prevent resource shortages.
 
-7. **Hospital Cost Comparisons**:
-   - Compared treatment costs across hospitals, identifying a facility with significantly higher costs.
+### Low Priority
 
-8. **Patient Admission Trends Over Time**:
-    - Analyzed monthly admission trends, correlating peaks with specific diagnoses.
-
-9. **Age-Related Recovery Patterns**:
-    - Investigated age influences on recovery, finding consistency across age groups without strong age-related correlation.
-
-10. **Recovery Trends by Demographics**:
-    - Analyzed recovery rates by gender and age, with adults showing higher recovery rates and more frequent admissions.
-
-11. **Hospital Performance and Patient Outcomes**:
-    - Evaluated hospitals based on admissions and recovery, identifying a facility with high admissions but lower recovery ratings.
-
-12. **Cohort Analysis Based on Admission Dates**:
-    - Conducted cohort analysis by admission date, noting months with lower recovery ratings possibly due to higher admission volumes.
-
-## Key Findings
-1. **Patient Demographics**: Significant trends were identified in patient age groups and gender-specific diagnosis patterns.
-2. **Treatment Costs**: Insights into cost distributions across treatment categories, with potential areas for cost optimization highlighted.
-3. **Hospital Utilization**: Analysis of resource usage enabled recommendations for more effective resource management.
-4. **Correlation Analysis**: Relationships between patient characteristics and healthcare outcomes were explored, informing data-driven decision-making.
-
-## Takeaways
-- Power BI is a powerful tool for healthcare organizations to transform data into meaningful insights, driving improved patient care and operational efficiency.
-- Understanding patient demographics and treatment patterns is crucial for optimizing healthcare delivery and resource allocation.
-- Data-driven strategies help healthcare providers pinpoint areas for improvement, enabling better-targeted interventions and enhanced patient outcomes.
-- Ongoing analysis and monitoring of healthcare data are vital for recognizing trends and proactively addressing challenges in the healthcare industry.
+**4. Explore Alternative Treatments to Surgery**
+- **Action:** Consider alternative, less expensive treatments like physical therapy or medication for conditions where surgery is currently used but may not be the most cost-effective option.
+- **Specific Steps:**
+  - Pilot alternative treatment programs for conditions typically treated with surgery, comparing outcomes and costs to existing protocols.
+  - Gather data from these pilots to inform broader adoption of more cost-effective treatment strategies across the hospital.
 
 ![Hospital Insights Dashboard](dashboard.png)
 
