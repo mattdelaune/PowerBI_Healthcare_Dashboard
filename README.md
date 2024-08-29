@@ -36,9 +36,9 @@ This project utilizes two Excel sheets containing patient and hospital data. The
 This dataset provides key insights into patient care, hospital operations, and financial data.
 
 ## Business Question
-**How can the hospital optimize treatment costs while maintaining or improving patient recovery outcomes across different age groups and treatment types?**
+**"How can the hospital optimize treatment costs while maintaining or improving patient recovery outcomes across different age groups and treatment types?"**
 
-## Insights and Answers
+## Key Insights and Recommendations
 1. **Cost Analysis Across Treatment Types:**
 - **Observation:** Surgery incurs the highest average costs per patient.
 - **Actionable Insight:** Consider alternative treatments like physical therapy or medication for applicable conditions, as these may reduce costs while maintaining effectiveness.
