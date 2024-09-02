@@ -10,7 +10,7 @@ This project uses Power BI to analyze hospital data, focusing on patient demogra
 - **Healthcare Domain Expertise**: Interpreted analytical results with a strong understanding of healthcare operations and patient care.
 
 ## Dataset
-This project utilizes two Excel sheets containing patient and hospital data. The dataset includes:
+This project utilizes two Excel sheets containing data for 1000 patients and 5 hospitals. The dataset includes:
 
 1. **Patient Information**
 - Patient: Unique identifier
